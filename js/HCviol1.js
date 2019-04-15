@@ -3,7 +3,7 @@ Highcharts.chart('hcviol1', {
         type: 'column'
     },
     title: {
-        text: 'Violences phyisques et sexuelles subies par les femmes'
+        text: 'Violences physiques et sexuelles subies par les femmes'
     },
     subtitle: {
         text: 'Au sein du ménage, moyenne annuelle'

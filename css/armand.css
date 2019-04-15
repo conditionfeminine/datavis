@@ -246,6 +246,13 @@ hr {
     margin: 0 auto
 }
 
+#hcjouets {
+	min-width: 310px;
+    max-width: 800px;
+    height: 400px;
+    margin: 0 auto
+}
+
 #wordcloud_description_fille {
 	height:100%;
 	width:100%;
